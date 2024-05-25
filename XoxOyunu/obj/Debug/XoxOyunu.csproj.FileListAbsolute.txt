@@ -1,0 +1,10 @@
+D:\visualstudioPROJELERİM\XoxOyunu\XoxOyunu\bin\Debug\XoxOyunu.exe.config
+D:\visualstudioPROJELERİM\XoxOyunu\XoxOyunu\bin\Debug\XoxOyunu.exe
+D:\visualstudioPROJELERİM\XoxOyunu\XoxOyunu\bin\Debug\XoxOyunu.pdb
+D:\visualstudioPROJELERİM\XoxOyunu\XoxOyunu\obj\Debug\XoxOyunu.csproj.AssemblyReference.cache
+D:\visualstudioPROJELERİM\XoxOyunu\XoxOyunu\obj\Debug\XoxOyunu.Form1.resources
+D:\visualstudioPROJELERİM\XoxOyunu\XoxOyunu\obj\Debug\XoxOyunu.Properties.Resources.resources
+D:\visualstudioPROJELERİM\XoxOyunu\XoxOyunu\obj\Debug\XoxOyunu.csproj.GenerateResource.cache
+D:\visualstudioPROJELERİM\XoxOyunu\XoxOyunu\obj\Debug\XoxOyunu.csproj.CoreCompileInputs.cache
+D:\visualstudioPROJELERİM\XoxOyunu\XoxOyunu\obj\Debug\XoxOyunu.exe
+D:\visualstudioPROJELERİM\XoxOyunu\XoxOyunu\obj\Debug\XoxOyunu.pdb
